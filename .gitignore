@@ -1,0 +1,11 @@
+# File compilati
+*.exe
+*.out
+
+# Configurazioni VS Code
+.vscode/
+tasks.json
+
+# Altri file temporanei
+*.o
+*.obj
